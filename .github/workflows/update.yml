@@ -1,0 +1,33 @@
+name: Update VPN configs
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # каждый день в 6:00 UTC
+  workflow_dispatch:      # позволяет запустить вручную со вкладки Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run merge script
+      run: python merge.py
+
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add all.txt
+        git diff --staged --quiet || git commit -m "Автоматическое обновление конфигов"
+        git push
