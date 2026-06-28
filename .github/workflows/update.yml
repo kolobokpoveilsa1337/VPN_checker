@@ -23,16 +23,16 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
+    - name: Update urls.txt from category repository
+      run: python add_category_urls.py
+
     - name: Run merge script (create all.txt)
       run: python merge.py
-
-    - name: Split all.txt into six parts
-      run: python split_configs.py
 
     - name: Commit and push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add all.txt part*.txt
-        git diff --staged --quiet || git commit -m "Автоматическое обновление и разделение конфигов"
+        git add urls.txt all.txt
+        git diff --staged --quiet || git commit -m "Автоматическое обновление конфигов"
         git push
