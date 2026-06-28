@@ -6,6 +6,17 @@ https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror
 https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/7.txt
 https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/8.txt
 https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/9.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/11.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/13.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/14.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/16.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/17.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/18.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/19.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/20.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/21.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/23.txt
+https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/24.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/1.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/2.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/10.txt
