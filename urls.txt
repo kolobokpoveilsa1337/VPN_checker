@@ -265,4 +265,4 @@ https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/9.2.txt
 https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/refs/heads/main/configs/9.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/raw/bypass-all-raw.txt
-https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt
+wget https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/githubmirror/clean/vless.txt
