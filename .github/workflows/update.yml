@@ -35,5 +35,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add all.txt split/
         git diff --staged --quiet || git commit -m "Автоматическое обновление и разделение конфигов"
-        git pusht || git commit -m "Автоматическое обновление и разделение конфигов"
+        git push || git commit -m "Автоматическое обновление и разделение конфигов"
         git push
