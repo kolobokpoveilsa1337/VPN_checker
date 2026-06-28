@@ -2,7 +2,7 @@ name: Update VPN configs
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # каждый день в 6:00 UTC
+    - cron: '0 6 * * *'   # каждый день в 6:00 UTC (9:00 по Москве)
   workflow_dispatch:      # позволяет запустить вручную
 
 jobs:
@@ -23,16 +23,13 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Update urls.txt from category repository
-      run: python add_category_urls.py
-
-    - name: Run merge script (create all.txt)
+    - name: Run merge script
       run: python merge.py
 
     - name: Commit and push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add urls.txt all.txt
+        git add all.txt
         git diff --staged --quiet || git commit -m "Автоматическое обновление конфигов"
         git push
