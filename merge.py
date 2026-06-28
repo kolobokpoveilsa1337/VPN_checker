@@ -2,25 +2,20 @@ import requests
 import re
 from urllib.parse import urlparse
 
-def extract_host_port(line):
+def extract_key(line):
     line = line.strip()
-    # Если строка похожа на URI (протокол://...)
     if re.match(r'^[a-zA-Z0-9+.-]+://', line):
-        try:
-            parsed = urlparse(line)
-            host = parsed.hostname
-            port = parsed.port
-            if host and port:
-                return (host, port)
-        except:
-            pass
-    # Ищем паттерн HOST:PORT
+        parsed = urlparse(line)
+        scheme = parsed.scheme
+        host = parsed.hostname
+        port = parsed.port
+        if host and port:
+            return (scheme, host, port)
+    # fallback: ищем HOST:PORT
     match = re.search(r'([a-zA-Z0-9.-]+):(\d+)', line)
     if match:
-        return (match.group(1), int(match.group(2)))
-    # Если не нашли, возвращаем None (будет использована строка как ключ)
+        return ('unknown', match.group(1), int(match.group(2)))
     return None
-
 def main():
     # Читаем ссылки из файла urls.txt
     with open("urls.txt", "r", encoding="utf-8") as f:
