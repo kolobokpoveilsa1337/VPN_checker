@@ -1,8 +1,8 @@
 import os
 import math
 
-def split_file(input_file, output1, output2):
-    """Разделяет файл на две равные части по количеству строк."""
+def split_into_parts(input_file, num_parts=6):
+    """Разделяет файл на num_parts частей (почти равных по количеству строк)."""
     if not os.path.exists(input_file):
         print(f"Файл {input_file} не найден.")
         return
@@ -11,15 +11,27 @@ def split_file(input_file, output1, output2):
         lines = f.readlines()
 
     total = len(lines)
-    half = math.ceil(total / 2)  # если нечётное, первая часть будет на 1 строку больше
+    if total == 0:
+        print("Файл пуст, создаём пустые части.")
+        for i in range(1, num_parts + 1):
+            with open(f"part{i}.txt", 'w', encoding='utf-8') as f:
+                f.write("")
+        return
 
-    with open(output1, 'w', encoding='utf-8') as f1:
-        f1.writelines(lines[:half])
+    # Размер каждой части (округляем вверх)
+    part_size = math.ceil(total / num_parts)
 
-    with open(output2, 'w', encoding='utf-8') as f2:
-        f2.writelines(lines[half:])
+    for i in range(num_parts):
+        start = i * part_size
+        end = min((i + 1) * part_size, total)
+        part_lines = lines[start:end]
+        out_filename = f"part{i+1}.txt"
+        with open(out_filename, 'w', encoding='utf-8') as f:
+            f.writelines(part_lines)
+        print(f"Записано {len(part_lines)} строк в {out_filename}")
 
-    print(f"Файл {input_file} ({total} строк) разделён на {output1} ({half} строк) и {output2} ({total - half} строк)")
+    print(f"Файл {input_file} ({total} строк) разделён на {num_parts} частей.")
 
 if __name__ == "__main__":
-    split_file("all.txt", "part1.txt", "part2.txt")
+    # Можно поменять число здесь, если нужно другое количество
+    split_into_parts("all.txt", num_parts=6)
