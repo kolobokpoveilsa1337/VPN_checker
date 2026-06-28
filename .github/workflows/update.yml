@@ -2,8 +2,8 @@ name: Update VPN configs
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # каждый день в 6:00 UTC
-  workflow_dispatch:      # позволяет запустить вручную
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -23,16 +23,17 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    - name: Run merge script (create all.txt)
+    - name: Run merge script
       run: python merge.py
 
-    - name: Split all.txt into 6 parts
+    - name: Split all.txt into 10 parts
       run: python split_configs.py
 
     - name: Commit and push if changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add all.txt part1.txt part2.txt part3.txt part4.txt part5.txt part6.txt
+        git add all.txt split/
         git diff --staged --quiet || git commit -m "Автоматическое обновление и разделение конфигов"
+        git pusht || git commit -m "Автоматическое обновление и разделение конфигов"
         git push
