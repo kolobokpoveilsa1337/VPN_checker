@@ -34,7 +34,7 @@ def main():
                 if not line:
                     continue
 
-                key = extract_host_port(line)
+                key = extract_key(line)
                 if key is None:
                     key = line  # точное совпадение
 
