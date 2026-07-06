@@ -1,12 +1,17 @@
 import os
 import math
 
-def split_file(input_file, output_dir=".", num_parts=3):   # по умолчанию текущая папка
+def split_file(input_file, output_dir, num_parts=5):   # теперь по умолчанию 5
     if not os.path.exists(input_file):
         print(f"Ошибка: файл {input_file} не найден.")
         return
 
-    # Строка os.makedirs( ... ) полностью удалена
+    # Если существует файл с именем output_dir – удаляем его, чтобы создать папку
+    if os.path.exists(output_dir) and not os.path.isdir(output_dir):
+        os.remove(output_dir)
+        print(f"Удалён файл-помеха: {output_dir}")
+
+    os.makedirs(output_dir, exist_ok=True)   # теперь папка создаётся без ошибок
 
     with open(input_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -32,9 +37,7 @@ def split_file(input_file, output_dir=".", num_parts=3):   # по умолчан
 
         print(f"Создан {part_path} ({len(part_lines)} строк)")
 
-    # Можно чуть поправить вывод, но не обязательно
-    print(f"Разделение завершено. {min(num_parts, math.ceil(total/part_size))} частей сохранены в '{output_dir}'.")
+    print(f"Разделение завершено. {min(num_parts, math.ceil(total/part_size))} частей сохранены в папку '{output_dir}'.")
 
 if __name__ == "__main__":
-    split_file("all.txt")   # теперь файлы part_01.txt и т.д. появятся рядом со скриптом
-    # если хочешь сохранять в папку "split" (но не создавать её), то передай "split" вторым аргументом, но тогда папка должна уже существовать
+    split_file("all.txt", "split", 5)   # теперь 5 частей
