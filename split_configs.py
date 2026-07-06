@@ -1,9 +1,9 @@
 import os
 import math
 
-def split_file(input_file, output_dir, num_parts=10):
+def split_file(input_file, output_dir, num_parts=3):   # <-- здесь было 10, стало 3
     """
-    Разделяет файл на указанное количество частей (по умолчанию 10).
+    Разделяет файл на указанное количество частей (по умолчанию 3).
     Сохраняет части в папку output_dir с именами part_01.txt, part_02.txt, ...
     """
     if not os.path.exists(input_file):
@@ -43,4 +43,4 @@ def split_file(input_file, output_dir, num_parts=10):
     print(f"Разделение завершено. {min(num_parts, math.ceil(total/part_size))} частей сохранены в папку '{output_dir}'.")
 
 if __name__ == "__main__":
-    split_file("all.txt", "split", 10)
+    split_file("all.txt", "split", 3)   # теперь явно указано 3, можно оставить и просто split_file("all.txt", "split")
