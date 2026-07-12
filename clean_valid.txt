@@ -1,267 +1,513 @@
+trojan://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.132:449/?type=tcp&security=tls&sni=grape-zet-turbo-nl.yyuyy.com&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-9083
+
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/@NebulaVPNx#Join+Telegram:@Farah_VPN
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.150.114:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
 
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.198.43:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
 
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?encryption=none&security=tls&sni=amooaliii.net&echfq=none&allowinsecure=0&type=ws&host=amooaliii.net&path=%2Fjdhfyws&fragment=2%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-19764
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@104.21.90.210:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian&security=tls&sni=cfoo-146.pages.dev&type=ws#Join+Telegram:@Farah_VPN
-
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.21.36.120:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.152:8443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
-
-vless://b03db3b9-6edb-4aef-8485-41c66e502487@188.114.96.1:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/eyJqdW5rIjoicGtPV3BFY3BySDMwSUYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&sni=24VvD-4imRvfaQv7hQxYbU9WzJv378Qi.v2Raygulf.WorkeRS.DeV&fp=chrome&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17638
-
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iamsterdam.com&fp=firefox&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&sid=0aafc7b3b9&spx=%2F&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-8481
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%9A%80%20t.me%2FiProxyChannel%2012
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#v2ray1_ng%20%20VL-WS-N/A%20%20XX%203ms
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.34:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#v2ray1_ng%20%20VL-WS-N/A%20%20XX%203ms
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.32.239:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
-
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.193.253:443?encryption=none&type=ws&security=tls&path=%2Fudfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%203ms
-
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&security=reality&sid=b378&sni=stockholmresilience.org&spx=%2F&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1499
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.94.161:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
-
-trojan://MiTiVPN@redis.io:443?security=tls&type=ws&sni=Swowidb-ueu-oe.App-CloUd.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=S--W-S&host=bw--ivsb-b--vvbcs.App-CloUd.IR#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22545
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.42:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#lrnbymaa%20%20VL-WS-N/A%20%20XX%202ms
-
-vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?encryption=none&type=ws&security=tls&path=%2Fpage%3D2&sni=server-ir-3.ariyuz.org&insecure=0&allowInsecure=0#
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.252:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#lrnbymaa%20%20VL-WS-N/A%20%20XX%202ms
-
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@77.221.159.165:40443?flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-4055
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.24:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
-
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.18.122:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#Join+Telegram:@Farah_VPN
-
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.251.82.132:443?encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%202ms
-
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443/?type=tcp&security=tls&sni=185.137.157.151#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-18380
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.147.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#ar14n24b%20%20VL-WS-N/A%20%20US%203ms
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.253.227:443?host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22469
-
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.80.111.60:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#Join+Telegram:@Farah_VPN
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=/fp&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
-
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-18891
-
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%841
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf8.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20389
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.79:443?encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed&security=tls&sni=cfoo-146.pages.dev&type=ws#Join+Telegram:@Farah_VPN
-
-trojan://humanity@188.114.99.102:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.gossipglove.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-18522
-
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.132.127:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws# By EbraSha
 
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#ar14n24b%20%20VL-WS-N/A%20%20XX%203ms
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.235:8443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.24.40.13:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2Ffp# By EbraSha
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.2:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%202ms
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
 
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-19729
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@108.162.198.108:443?security=tls&type=ws&path=%2Fsg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome# By EbraSha
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#v2ray1_ng%20%20VL-WS-N/A%20%20XX%202ms
+vless://690b6997-198a-49d2-8cef-e4c70efc2288@104.24.246.204:443?encryption=none&security=tls&sni=mute-moon-cf52.stary1001.workers.dev&fp=chrome&type=ws&host=mute-moon-cf52.stary1001.workers.dev&path=%2F# By EbraSha
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@5.10.214.151:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@108.162.192.75:443?security=tls&type=ws&path=%2Fjdhfyws&host=amooaliii.net&ed=2048&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#V2rayByUnknown```
 
-trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www.gossipglove.com&sni=www.gossipglove.com&alpn=http%2F1.1&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-15025
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.93.182:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#CA_3697_@Surfboardv2ray
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.25.213.215:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#CA_3527_@Surfboardv2ray
 
-trojan://humanity@104.17.72.206:443?path=/assignment&security=tls&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17718
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@172.67.167.207:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=/&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws# By EbraSha
 
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@104.18.185.26:443?security=tls&sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22230
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.37:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#4Sarina-11211
 
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@104.16.250.22:443?security=tls&sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22039
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
 
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.4.14:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws# By EbraSha
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#19%20%D8%AA%DB%8C%D8%B1%20MTMVPN%20%F0%9F%92%8A`
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.243.164:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#CA_3471_@Surfboardv2ray
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?type=ws&security=none&host=de.vpnbase.net&path=%2Fhttp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18932
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.153.203:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
 
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.174.3:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=JoinProxyVPN11.amooaliii.net&type=ws#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.152:8443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
 
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Join+Telegram:@Farah_VPN
+vmess://eyJhZGQiOiI5NC4xMDMuMTY3LjExNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMWIwYzEwMy1hN2ZmLTRiZDYtODg3ZC1hNzNkNmViZjFmNTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJ0ZWxlZ3JhbSBAbXRtdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.8:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20866
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
 
-trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18413
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.79:443?encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed&security=tls&sni=cfoo-146.pages.dev&type=ws#Join+Telegram:@Farah_VPN
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.32.239:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
 
-vless://0dbfdd92-a166-4852-9a5b-7cf508d196ab@France2.nicqy.com:43264?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=V7HRYFnC_mCHvqcO5o9sKVN-vs_tQ1FnB9seskMAB0A&security=reality&sid=eb&sni=samsung.com&spx=%2FBb72M8dxE7yQVmm&type=xhttp&x_padding_bytes=100-1000#soskeynet%20%20VL-XHTTP-%20%20FR%20141ms
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.206.162:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2Ffp# By EbraSha
 
-vless://7499f0a0-3670-4cf6-a31c-ad4cd943cf18@pl.hagrid-connected.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl.hagrid-connected.com&fp=edge&pbk=nfkwd9xJCoNuWrvvieBB9VfpcDldsARAdFPL0dF5A1Q&sid=305570274c0c72cc&allowinsecure=0&type=tcp&headerType=none#%5BOpenRay%5D%20Dynamic-1580
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.198.197:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.18.154.205:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21942
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@104.21.41.243:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws# By EbraSha
 
-trojan://humanity@104.17.150.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17080
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%F0%9F%9A%80%20t.me%2FiProxyChannel%2012
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.180:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+vless://e4824193-4f54-453b-d037-88368e85ef0e@162.159.252.15:443/?type=grpc&encryption=none&flow=&security=tls&sni=sca12.afterdomain.shop&alpn=h2,http/1.1# By EbraSha
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.101:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=/fp&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
 
-trojan://humanity@104.18.139.67:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17756
+vless://7f547a00-bc25-4512-baeb-5a3983c118d3@8.6.112.6:8443?fp=firefox&host=uk.hknetapp.com&security=tls&sni=uk.hknetapp.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-20955
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&type=ws&security=tls&path=%2Fudfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%202ms
+vless://b03db3b9-6edb-4aef-8485-41c66e502487@188.114.96.1:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/eyJqdW5rIjoicGtPV3BFY3BySDMwSUYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&sni=24VvD-4imRvfaQv7hQxYbU9WzJv378Qi.v2Raygulf.WorkeRS.DeV&fp=chrome&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17638
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.20:443?security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.44.198:443?path=%2Ffp%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.49.246:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.49.138:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.95.8:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#CA_3689_@Surfboardv2ray
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.42:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
 
 trojan://MiTiVPN@104.17.122.62:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DFL-44&host=f--ls-Fvl.MaQror.IR&sni=fl-o--7-fllav.MaQror.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22611
 
-trojan://humanity@188.114.96.4:443?path=/assignment&security=tls&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17719
+trojan://humanity@45.85.118.176:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%284%29
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.4.13:443?encryption=none&type=ws&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&fp=chrome&sni=edt2.yfqh08811.ccwu.cc# By EbraSha
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.84:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.21.36.120:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
 
-trojan://humanity@188.114.97.57:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18316
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?type=ws&security=none&host=de.vpnbase.net&path=%2Fhttp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18932
 
-trojan://humanity@104.18.152.229:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19315
+trojan://humanity@103.133.1.2:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#EPODONIOS
 
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?path=%2Fa8Kp92LmQx&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=app.zynuro.ir&fp=360&type=ws&allowInsecure=0&sni=app.zynuro.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20848
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.147.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#ar14n24b%20%20VL-WS-N/A%20%20US%203ms
 
-trojan://humanity@104.16.147.104:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17058
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.18.122:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#Join+Telegram:@Farah_VPN
 
-trojan://humanity@104.17.131.88:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-14839
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.53.23:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp# By EbraSha
 
-trojan://humanity@104.18.115.61:443?type=ws&security=tls&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18414
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.46.187:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#CA_3516_@Surfboardv2ray
 
-vless://96e341a7-3077-4613-b482-41bd9c90cc4d@ezaccess-project-4c7950.ez-dc9bbb.workers.dev:443?encryption=none&type=ws&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&path=%2FeyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=eZaCCesS-proJEcT-4C7950.Ez-dC9bBB.WorKErs.dEV#%5BOpenRay%5D%20Dynamic-21951
+trojan://humanity@199.181.197.143:443?host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#EPODONIOS
 
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf3.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20384
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr# By EbraSha
 
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17288
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.224.5:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr# By EbraSha
 
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21330
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?alpn=h2,http/1.1&encryption=none&security=tls&sni=sca12.afterdomain.shop&type=grpc#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22264
 
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21007
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr# By EbraSha
 
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.227:443?path=/QiangLieTuiJian?ed&security=tls&encryption=none&insecure=0&host=cfoo-146.pages.dev&type=ws&allowInsecure=0&sni=cfoo-146.pages.dev#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.16.154:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#4Sarina-11235
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.70.92:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.15:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr# By EbraSha
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%5BOpenRay%5D%20Dynamic-21151
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf2.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20383
-
-trojan://humanity@104.18.155.229:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22236
-
-trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21872
-
-trojan://humanity@188.114.97.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17721
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf9.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20390
-
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&insecure=0&allowInsecure=0#%F0%9F%95%AF%EF%B8%8F%20-%203
-
-trojan://humanity@104.18.152.97:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18320
-
-trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18332
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf1.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20381
-
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf4.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20385
-
-vless://5e9709cb-bfc3-487c-a8e1-7beea7dd72d8@xnod6x.artemida.live:443?encryption=none&security=reality&type=grpc&sni=xnod6x.artemida.live&fp=safari&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&mode=gun#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-19537
-
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%5BOpenRay%5D%20Dynamic-21148
-
-trojan://MiTiVPN@openai.com:443?security=tls&type=ws&sni=fl-o--7-fllav.App-CloUd.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=F--l&host=f--ls-Fvl.App-CloUd.IR#%5BOpenRay%5D%20Dynamic-22544
-
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Join+Telegram:@Farah_VPN
-
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-3690
+trojan://humanity@172.67.200.219:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#EPODONIOS
 
 trojan://humanity@www.creationlong.org:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&alpn=http%2F1.1&fp=chrome#%5BOpenRay%5D%20Dynamic-19432
 
-vless://31aa0950-eb19-45ff-94a2-af416deb3b90@188.114.97.8:8443?encryption=none&security=tls&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22556
-
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443?fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#%5BOpenRay%5D%20Dynamic-22183
-
-trojan://humanity@104.16.174.44:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18321
+trojan://humanity@104.16.117.43:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#CA-%3E%2B%28%40DeamNet_Proxy%29%20%282%29
 
 vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.226:443?path=%2Fpage%3D2&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#
 
-trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18699
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
 
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20Dynamic-11667
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.42.44:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_7%7C3.2MB/s
 
-vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@104.16.74.50:443?path=%2Fmeti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22633
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.170:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#4Sarina-11210
 
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17645
+vless://58be4691-5430-417a-96e3-02736d151490@securitytrails.com:2083?encryption=none&security=tls&sni=log.beforenext.dpdns.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=log.beforenext.dpdns.org&path=%2Fforall&mode=auto# By EbraSha
 
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#%5BOpenRay%5D%20Dynamic-13305
+trojan://humanity@91.193.58.77:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#%40V2raySup0%F0%9F%9A%80%20%289%29
+
+vless://c416332e-2bde-4806-ac02-8f021c6e8f68@162.159.152.48:443?security=tls&type=ws&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&host=bbc.zjxc.de5.net&packetEncoding=xudp&sni=bbc.zjxc.de5.net&fp=chrome&encryption=none# By EbraSha
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.193.253:443?encryption=none&type=ws&security=tls&path=%2Fudfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%203ms
+
+trojan://MiTiVPN@redis.io:443?security=tls&type=ws&sni=Swowidb-ueu-oe.App-CloUd.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=S--W-S&host=bw--ivsb-b--vvbcs.App-CloUd.IR#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22545
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.59.7:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#lrnbymaa%20%20VL-WS-N/A%20%20XX%202ms
+
+trojan://humanity@104.18.32.37:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#CA-%3EFR%2B%28%40DeamNet_Proxy%29%20%283%29
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.45.249:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#4Sarina-11158
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?security=tls&sni=sca12.afterdomain.shop&type=grpc&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19546
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.184.155:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#4Sarina-11121
+
+trojan://humanity@104.16.79.73:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2826%29
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@5.10.214.151:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.207:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2811%29
+
+trojan://humanity@104.16.89.120:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%282%29
+
+vless://00e94078-bb1e-49aa-8567-e1b3b2843150@104.17.218.135:8443?type=ws&security=tls&sni=&host=late-snowflake-da7a.platovpnx.workers.dev&path=%2F#CF%E4%B8%AD%E8%BD%AC_0626017330
+
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%841
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.229:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#ar14n24b%20%20VL-WS-N/A%20%20XX%203ms
+
+trojan://humanity@199.181.197.212:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#EPODONIOS
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.251.82.138:443/?type=ws&encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&fp=chrome# By EbraSha
+
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd3.466688.xyz:443?encryption=none&security=tls&sni=edge-4cb23bf6.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=edge-4cb23bf6.pages.dev&path=%2F%40https%3A%2F%2Ft.me%2FQiangLieTuiJian%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22528
+
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443/?type=ws&encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&fp=chrome# By EbraSha
+
+trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#EPODONIOS
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.253.227:443?host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22469
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.34.107:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@141.193.213.20:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=JoinProxyVPN11.vangoghhh.info&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-19729
+
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&security=reality&sid=b378&sni=stockholmresilience.org&spx=%2F&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1499
+
+trojan://humanity@104.16.174.37:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2856%29
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@104.16.250.22:443?security=tls&sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22039
+
+vless://d08c3d5e-ef85-48ac-b532-0fe6d3ae14d1@speedtest.net:80?path=%2F&security=&encryption=none&host=iophgyhuw2.global.ssl.fastly.net&type=ws#%5BOpenRay%5D%20Dynamic-22560
+
+trojan://humanity@104.18.152.159:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2821%29
+
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-15082
+
+trojan://humanity@104.18.152.144:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2851%29
+
+trojan://humanity@172.64.149.54:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?path=%2Ffp%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7
+
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@77.221.159.165:40443?flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&security=reality&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-4055
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@162.251.82.132:443?encryption=none&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#Join+Telegram:@Farah_VPN
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.210.88:443?security=tls&type=ws&path=%2Frdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none# By EbraSha
+
+trojan://humanity@199.181.197.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#EPODONIOS
 
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
 
-trojan://humanity@www.gossipglove.com:443?security=tls&alpn=http/1.1&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-17209
+trojan://humanity@199.181.197.228:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#EPODONIOS
 
-trojan://humanity@www.medium.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20Dynamic-19742
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.31.220:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20%40NOFILTERING2
 
-trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20Dynamic-19007
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?type=ws&security=tls&sni=&host=octopusss5.info&path=%2Fudfyfws#%5BOpenRay%5D%20Dynamic-18943
+trojan://humanity@104.16.174.6:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%5BOpenRay%5D%20Dynamic-19001
+trojan://humanity@172.64.229.75:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28104%29
 
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#%5BOpenRay%5D%20Dynamic-18407
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#GB_428_@Surfboardv2ray
 
-vless://amir@api.amirv2yats.qzz.io:443?security=tls&path=%2Fws%2Famir&fp=chrome&allowInsecure=0&encryption=none&host=api.amirv2yats.qzz.io&insecure=0&alpn=http%2F1.1&sni=api.amirv2yats.qzz.io&type=ws#%5BOpenRay%5D%20Dynamic-21026
+trojan://humanity@104.18.152.140:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%283%29
 
-trojan://humanity@104.18.185.26:443?allow_insecure=0&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17727
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.127:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F# By EbraSha
 
-trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-14824
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#v2ray1_ng%20%20VL-WS-N/A%20%20XX%202ms
 
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=/&security=tls&sni=ldgb.pages.dev&type=ws#%5BOpenRay%5D%20Dynamic-22605
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=%2Frsedgws&security=tls&fragment=2,0-1,tlshello,null&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%222%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&echfq=none&host=shegeftihaaa.net&allowinsecure=0&type=ws&sni=shegeftihaaa.net#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-19190
 
-trojan://humanity@sourceforge.net:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%5BOpenRay%5D%20Dynamic-17974
+trojan://humanity@104.16.62.25:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2816%29
 
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#%5BOpenRay%5D%20Dynamic-19347
+trojan://humanity@104.18.152.175:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28148%29
 
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#%40bored_vpn
+trojan://humanity@172.67.155.199:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&fp=ios#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2866%29
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#v2ray1_ng%20%20VL-WS-N/A%20%20XX%202ms
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.18.154.205:443?encryption=none&security=tls&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=%2Fudfyfws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21942
+
+trojan://humanity@188.114.96.4:443?path=/assignment&security=tls&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17719
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.244:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2812%29
+
+vless://31aa0950-eb19-45ff-94a2-af416deb3b90@188.114.97.8:8443?encryption=none&security=tls&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&path=%2FeyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22556
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Join+Telegram:@Farah_VPN
+
+vless://TMG_68f4265f5e2@185.156.72.59:443?security=reality&type=xhttp&path=%2FbiQ-5UZ0Xd7lO5JpP&host=amazon.com&packetEncoding=xudp&sni=amazon.com&fp=firefox&sid=882655&pbk=U0tKM7B_2ec1YPaQOaBq1J-WRoJY7qNr3QNJ0VamRAQ&mode=auto&encryption=none# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.8:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20866
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.30.248:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws# By EbraSha
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.111:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%202ms
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@104.18.185.26:443?security=tls&sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22230
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.101:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.219:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.133:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2813%29
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.17.72.206:443?path=/assignment&security=tls&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17718
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.84:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Join+Telegram:@Farah_VPN
+
+trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#EPODONIOS
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf2.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20383
+
+trojan://humanity@104.16.147.104:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17058
+
+trojan://humanity@104.18.152.161:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2850%29
+
+trojan://MITIVPN@basecamp.com:8443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD-E-e&host=jDe1-2v-3.MaQror.IR&sni=de-j7o-doo.MaQror.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%5BOpenRay%5D%20Dynamic-22615
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.218:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.230:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2822%29
+
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20065
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.5.60:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.179:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2819%29
+
+trojan://humanity@104.17.150.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17080
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.152.210:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2829%29
+
+trojan://humanity@188.114.97.3:443?path=/assignment&security=tls&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17715
+
+trojan://humanity@104.16.122.175:443?type=ws&security=tls&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18413
+
+trojan://humanity@188.114.97.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17721
+
+trojan://humanity@162.159.193.22:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28100%29
 
 vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@cf.0sm.com:443?&security=tls&fp=chrome&sni=edt2.yfqh08811.ccwu.cc&type=ws&headerType=&host=edt2.yfqh08811.ccwu.cc&path=%2F#%5BOpenRay%5D%20Dynamic-22216
 
-vless://53510d6b-47e0-43d0-bd47-6934c1b26bbb@germanyserver.nizeo.ir:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=ios&host=&path=%2F&security=tls&sni=germanyserver.nizeo.ir&type=ws#%5BOpenRay%5D%20Dynamic-21402
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21330
 
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
+trojan://humanity@104.18.152.155:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28153%29
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.90:8443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome# By EbraSha
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%5BOpenRay%5D%20Dynamic-21148
+
+trojan://humanity@172.64.147.24:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#[🇳🇱] [tr-tl-ws] [260712-121146.992]
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?encryption=none&type=ws&security=tls&path=%2Fudfyfws&host=octopusss5.info&sni=octopusss5.info&fp=chrome&insecure=0&allowInsecure=0#spotify_porteghali%20%20VL-WS-N/A%20%20XX%202ms
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.18.155.229:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22236
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.79.128:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#CA_3696_@Surfboardv2ray
+
+trojan://humanity@188.114.97.57:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18316
+
+trojan://humanity@104.18.152.204:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28127%29
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf4.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20385
+
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@yx.l110.us.ci:443?fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2F&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#%5BOpenRay%5D%20Dynamic-22184
 
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf7.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20388
 
+trojan://humanity@104.18.16.56:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%283%29
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.40.152:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome# By EbraSha
+
+trojan://humanity@104.18.152.149:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2844%29
+
+trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#EPODONIOS
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.138.17:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&host=t1s1.rittbo.kdns.fr&path=/&packetEncoding=xudp# By EbraSha
+
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&insecure=0&allowInsecure=0#%F0%9F%95%AF%EF%B8%8F%20-%203
+
+trojan://humanity@104.18.152.103:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2839%29
+
+trojan://humanity@104.16.174.101:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28104%29
+
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#%5BOpenRay%5D%20Dynamic-13305
+
+trojan://humanity@104.18.152.208:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.91:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2Ffp#filembad-404
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=/&security=tls&sni=ldgb.pages.dev&type=ws#%5BOpenRay%5D%20Dynamic-22605
+
+trojan://humanity@104.18.152.108:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28131%29
+
+trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28143%29
+
+trojan://humanity@104.16.174.46:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2894%29
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443/?type=ws&encryption=none&flow=&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net# By EbraSha
+
+trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2861%29
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf1.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20381
+
+trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18332
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@104.16.75.141:443?path=%2Fmeti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM# By EbraSha
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@104.16.75.144:443?path=%2Fmeti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM#%F0%9F%87%A8%F0%9F%87%A6%20%40MrMeshkyChannel%20851506
+
+trojan://humanity@104.16.174.22:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28107%29
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@104.17.108.122:443?path=/meti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942097
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.136:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Join+Telegram:@Farah_VPN
+
+trojan://humanity@104.16.24.132:443?type=ws&security=tls&host=www.multiplydose.com&path=//assignment&sni=www.multiplydose.com&alpn=h2,http/1.1# By EbraSha
+
+trojan://humanity@sourceforge.net:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%5BOpenRay%5D%20Dynamic-17974
+
+trojan://humanity@104.18.152.143:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28103%29
+
+trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
+
+trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#EPODONIOS
+
+trojan://humanity@104.18.152.152:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3E%2B%28%40DeamNet_Proxy%29%20%2829%29
+
+trojan://MiTiVPN@openai.com:443?security=tls&type=ws&sni=fl-o--7-fllav.App-CloUd.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=F--l&host=f--ls-Fvl.App-CloUd.IR#%5BOpenRay%5D%20Dynamic-22544
+
+trojan://humanity@104.16.174.148:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com# By EbraSha
+
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.21.36.120:8443?path=/&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#Join+Telegram:@Farah_VPN
+
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?type=ws&security=tls&sni=&host=octopusss5.info&path=%2Fudfyfws#%5BOpenRay%5D%20Dynamic-18943
+
+trojan://humanity@104.16.72.50:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21872
+
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@172.67.193.253:8443?encryption=none&security=tls&sni=srv75.perfectbulk.info&fp=chrome&type=ws&host=srv75.perfectbulk.info&path=/&packetEncoding=xudp# By EbraSha
+
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-21007
+
+trojan://humanity@www.calmloud.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20Dynamic-17711
+
+trojan://humanity@104.16.174.143:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28140%29
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443/?type=ws&encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&ed=2048&eh=Sec-WebSocket-Protocol&security=tls&sni=shegeftihaaa.net&fp=chrome# By EbraSha
+
+trojan://humanity@104.16.174.72:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%289%29
+
+vless://amir@api.amirv2yats.qzz.io:443?security=tls&path=%2Fws%2Famir&fp=chrome&allowInsecure=0&encryption=none&host=api.amirv2yats.qzz.io&insecure=0&alpn=http%2F1.1&sni=api.amirv2yats.qzz.io&type=ws#%5BOpenRay%5D%20Dynamic-21026
+
+trojan://humanity@104.18.1.249:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1# By EbraSha
+
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20064
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@104.16.74.50:443?path=%2Fmeti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-22633
+
+trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20Dynamic-19007
+
+trojan://humanity@104.18.15.230:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1# By EbraSha
+
+vless://53510d6b-47e0-43d0-bd47-6934c1b26bbb@germanyserver.nizeo.ir:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=ios&host=&path=%2F&security=tls&sni=germanyserver.nizeo.ir&type=ws#%5BOpenRay%5D%20Dynamic-21402
+
+trojan://humanity@104.16.174.33:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2890%29
+
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-17288
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%5BOpenRay%5D%20Dynamic-19001
+
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?security=reality&encryption=none&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=helsinki.fi&sid=40a5eaec20abf1#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-3690
+
+trojan://humanity@188.114.99.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-14824
+
+trojan://humanity@199.181.197.111:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#EPODONIOS
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.80.111.60:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#Join+Telegram:@Farah_VPN
+
+trojan://humanity@172.64.146.198:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_130
+
+trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18699
+
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=360&type=ws&allowInsecure=0&sni=www.multiplydose.com#%5BOpenRay%5D%20Dynamic-21966
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf9.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20390
+
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.223.92:8443?encryption=none&type=ws&host=srv10.perfectbulk.info&path=%2F&security=tls&fp=chrome&sni=srv10.perfectbulk.info# By EbraSha
+
+trojan://humanity@104.16.174.124:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2877%29
+
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%5BOpenRay%5D%20Dynamic-19349
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.130519.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#4Sarina-11524
+
+trojan://humanity@104.16.174.185:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2853%29
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%5BOpenRay%5D%20Dynamic-21151
+
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%5BOpenRay%5D%20Dynamic-20822
+
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@188.114.97.230:443?path=%2Fa8Kp92LmQx&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=app.zynuro.ir&fp=360&type=ws&allowInsecure=0&sni=app.zynuro.ir#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-20848
+
+vless://384a72e6-8a10-4695-9ee5-c93728ef7e2a@ci.temas-fars.ir:2446?security=reality&encryption=none&pbk=wa-3A_tTCfWDjH_n_MC9fwVViet-UJr2fyBcg3oMwCM&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=8fc8b7f82c27e0fb#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7%20TR-1172
+
+vless://5e9709cb-bfc3-487c-a8e1-7beea7dd72d8@213.176.73.91:443?fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod4x.artemida.live&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-3415
+
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.94.161:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Join+Telegram:@Farah_VPN
+
+trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#%5BOpenRay%5D%20Dynamic-18357
+
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18762
+
+trojan://humanity@104.18.152.50:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28137%29
+
+vless://5e9709cb-bfc3-487c-a8e1-7beea7dd72d8@xnod4x.artemida.live:443?type=grpc&headerType=none&security=reality&encryption=none&sni=xnod4x.artemida.live&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-3416
+
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18309
+
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@104.17.121.158:443?path=/meti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM# By EbraSha
+
+trojan://humanity@172.64.152.38:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#CA-%3ENL%2B%28%40DeamNet_Proxy%29%20%288%29
+
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf3.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#%5BOpenRay%5D%20Dynamic-20384
+
+trojan://humanity@104.18.152.229:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-19315
+
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&path=%2F%2Fassignment#%5BOpenRay%5D%20Dynamic-17482
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=%2Frsedgws#%5BOpenRay%5D%20Dynamic-19347
+
+trojan://humanity@188.114.99.102:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.gossipglove.com&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-18522
+
 vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@gamefictoinspeed.info:443?path=%2Fmeti&security=tls&encryption=none&insecure=0&host=MorI2.gAMEOfBoxS.CoM&fp=chrome&type=ws&allowInsecure=0&sni=MorI2.gAMEOfBoxS.CoM#%5BOpenRay%5D%20Dynamic-22511
 
-trojan://humanity@162.159.136.234:443?type=ws&security=tls&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&alpn=h2,http/1.1#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-18415
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.90.246:443?alpn=h2&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc# By EbraSha
 
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?flow=xtls-rprx-vision&fp=chrome&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&security=reality&sid=7551ed1b&sni=www.intel.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-20471
+trojan://humanity@104.16.80.73:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#CA-%3E%2B%28%40DeamNet_Proxy%29%20%287%29
 
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@56a186a3d3464b11.sorcepack.ir:56625?mode=gun&security=reality&encryption=none&pbk=sVtMU2ZA5W6TLnBCZdgfXqDnOwWePrGVjSNnueDlYmM&fp=ios&type=grpc&sni=icloud.com&sid=abbb6e5e07cdf34b#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1668
+vless://e4824193-4f54-453b-d037-88368e85ef0e@198.41.209.87:443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc# By EbraSha
 
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12158
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.29.204:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-20960
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.209.126:443?alpn=h2&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc#Join+Telegram:@Farah_VPN
