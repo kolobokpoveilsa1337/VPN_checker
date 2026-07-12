@@ -169,16 +169,7 @@ https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Config
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt
 https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub2.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub3.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub4.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub5.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub6.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub7.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub8.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub9.txt
-https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt
+https://raw.githubusercontent.com/SoliSpirit/SolVPN/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/refs/heads/main/all_servers.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-1.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/mini/m1n1-5ub-2.txt
@@ -267,3 +258,5 @@ https://raw.githubusercontent.com/vxstream/SkyVPN/refs/heads/main/sub.txt
 https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt
+https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt
