@@ -223,6 +223,9 @@ https://raw.githubusercontent.com/tylercodes88/VpnConfigCollector/refs/heads/mai
 https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/refs/heads/main/server.txt
 https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_1.txt
 https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_2.txt
+https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_3.txt
+https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_4.txt
+https://raw.githubusercontent.com/kort0881/vpn-aggregator/main/out/subs/eu_sub_5.txt
 https://raw.githubusercontent.com/Argh94/Proxy-List/refs/heads/main/All_Config.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt
 https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt
@@ -260,3 +263,8 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt
 https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt
 https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/refs/heads/main/Z.txt
+https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/refs/heads/main/all/configs.txt
+https://raw.githubusercontent.com/AloneBoy232/vpn-configs/refs/heads/main/raw.txt
+https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/all_subscriptions.txt
+https://raw.githubusercontent.com/Shahrilex/Config/refs/heads/main/sub/v2rayng-wg.txt
+https://raw.githubusercontent.com/AkitaFI/config/refs/heads/main/subscriptions/01d2a6ab_full.txt
