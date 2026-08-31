@@ -26,30 +26,6 @@ jobs:
     - name: Run merge script
       run: python merge.py
 
-    - name: Remove duplicates from all.txt
-      run: |
-        if [ -f "all.txt" ]; then
-          ORIGINAL_COUNT=$(wc -l < all.txt)
-          echo "Исходное количество: $ORIGINAL_COUNT"
-          
-          # Удаляем дубликаты, сохраняя порядок (сначала появившиеся остаются)
-          awk '!seen[$0]++' all.txt > all_unique.txt
-          
-          UNIQUE_COUNT=$(wc -l < all_unique.txt)
-          REMOVED=$((ORIGINAL_COUNT - UNIQUE_COUNT))
-          
-          echo "Уникальных: $UNIQUE_COUNT"
-          echo "Удалено дубликатов: $REMOVED"
-          
-          if [ $REMOVED -gt 0 ]; then
-            mv all_unique.txt all.txt
-            echo "✅ Файл очищен от дубликатов"
-          else
-            rm all_unique.txt
-            echo "✅ Дубликатов не найдено"
-          fi
-        fi
-
     - name: Split all.txt into 10 parts
       run: python split_configs.py
 
@@ -58,5 +34,6 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add all.txt split/
-        git diff --staged --quiet || git commit -m "Автоматическое обновление и разделение конфигов (дубликаты удалены)"
+        git diff --staged --quiet || git commit -m "Автоматическое обновление и разделение конфигов"
+        git push || git commit -m "Автоматическое обновление и разделение конфигов"
         git push
