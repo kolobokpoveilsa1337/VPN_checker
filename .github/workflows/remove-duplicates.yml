@@ -1,0 +1,62 @@
+name: Remove Duplicate VPN Configs
+
+on:
+  push:
+    paths:
+      - 'all.txt'
+  workflow_dispatch:
+
+jobs:
+  remove-duplicates:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Remove duplicates from all.txt
+        run: |
+          echo "Проверка файла all.txt на дубликаты..."
+          
+          if [ -f "all.txt" ]; then
+            # Подсчитываем исходное количество строк
+            ORIGINAL_COUNT=$(wc -l < all.txt)
+            echo "Исходное количество конфигов: $ORIGINAL_COUNT"
+            
+            # Удаляем дубликаты, сохраняя порядок
+            awk '!seen[$0]++' all.txt > all_unique.txt
+            
+            # Подсчитываем количество после удаления дубликатов
+            UNIQUE_COUNT=$(wc -l < all_unique.txt)
+            echo "Уникальных конфигов: $UNIQUE_COUNT"
+            
+            # Вычисляем количество удаленных дубликатов
+            REMOVED=$((ORIGINAL_COUNT - UNIQUE_COUNT))
+            echo "Удалено дубликатов: $REMOVED"
+            
+            # Заменяем оригинальный файл
+            if [ $REMOVED -gt 0 ]; then
+              mv all_unique.txt all.txt
+              echo "Файл all.txt обновлен - дубликаты удалены"
+            else
+              rm all_unique.txt
+              echo "Дубликатов не найдено"
+            fi
+          else
+            echo "Файл all.txt не найден"
+            exit 1
+          fi
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add all.txt
+          
+          # Проверяем есть ли изменения
+          if git diff --staged --quiet; then
+            echo "Изменений нет, коммит не нужен"
+          else
+            git commit -m "Auto: удалены дубликаты из all.txt"
+            git push
+          fi
