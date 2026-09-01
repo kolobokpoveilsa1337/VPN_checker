@@ -26,6 +26,42 @@ jobs:
     - name: Run merge script
       run: python merge.py
 
+    - name: Очистка all.txt от мусора и дубликатов
+      run: |
+        if [ -f "all.txt" ]; then
+          ORIGINAL_COUNT=$(wc -l < all.txt)
+          echo "Исходное количество строк: $ORIGINAL_COUNT"
+          
+          # Фильтруем:
+          # 1. Строки короче 500 символов (убираем гигантский base64 мусор)
+          # 2. Только строки, начинающиеся с VPN протоколов
+          # 3. Убираем метаданные подписки
+          awk '
+            length($0) > 0 && length($0) <= 500 &&
+            /^(vless|vmess|trojan|ss|ssr|hysteria|hysteria2|tuic|wireguard|naive\+quic|socks|http):\/\// &&
+            !/base64:/ &&
+            !/subscription-userinfo/ &&
+            !/profile-title/ &&
+            !/profile-update/ &&
+            !/support-url/ &&
+            !/profile-web/
+          ' all.txt > all_filtered.txt
+          
+          # Удаляем дубликаты, сохраняя порядок
+          awk '!seen[$0]++' all_filtered.txt > all_unique.txt
+          
+          CLEAN_COUNT=$(wc -l < all_unique.txt)
+          REMOVED=$((ORIGINAL_COUNT - CLEAN_COUNT))
+          
+          echo "После очистки: $CLEAN_COUNT"
+          echo "Удалено мусора и дубликатов: $REMOVED"
+          
+          mv all_unique.txt all.txt
+          rm all_filtered.txt
+          
+          echo "✅ Файл очищен от мусора"
+        fi
+
     - name: Split all.txt into 10 parts
       run: python split_configs.py
 
@@ -34,6 +70,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add all.txt split/
-        git diff --staged --quiet || git commit -m "Автоматическое обновление и разделение конфигов"
-        git push || git commit -m "Автоматическое обновление и разделение конфигов"
+        git diff --staged --quiet || git commit -m "Автоматическое обновление: очистка от мусора и дубликатов"
         git push
