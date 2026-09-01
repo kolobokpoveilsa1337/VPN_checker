@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizy
 https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt
 https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt
 https://raw.githubusercontent.com/Arianlavi/RebeldevConfig/refs/heads/main/RebelLink/all_subscriptions.txt
-https://github.com/ALIILAPRO/v2rayNG-Config/blob/main/server.txt
+https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/refs/heads/main/server.txt
 https://raw.githubusercontent.com/trabict/my-vpn-configs/refs/heads/main/githubmirror/1.txt
 https://raw.githubusercontent.com/trabict/my-vpn-configs/refs/heads/main/githubmirror/2.txt
 https://raw.githubusercontent.com/trabict/my-vpn-configs/refs/heads/main/githubmirror/3.txt
