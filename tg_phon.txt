@@ -1,183 +1,199 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#🇳🇱 AnixVPN | Netherlands #5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#🇳🇱 AnixVPN | Netherlands #25
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱 AnixVPN | Netherlands #9
+
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 65B238
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#🇳🇱 AnixVPN | Netherlands #22
+
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?fp=edge&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20453718
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#🇳🇱 AnixVPN | Netherlands #17
 
-vless://3c5b4526-9f8a-4b99-913e-6549bfd20dc3@201.24.49.53:2200?type=ws&path=%2Fv1&host=rzd.ru#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-296
+vless://6d662736-24ea-4f8e-9e73-acbc14d09cb1@201.24.49.213:4100?path=/v1&security=none&encryption=none&type=ws#RU 🇷🇺 | @Raydikalx | A8FF31
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#🇳🇱 AnixVPN | Netherlands #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#🇳🇱 AnixVPN | Netherlands #5
 
-vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru&fp=android#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20302009
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#@Alirewa-94
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#🇳🇱 AnixVPN | Netherlands #16
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#@Alirewa-232
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#🇳🇱 AnixVPN | Netherlands #39
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#GB   SHADOWSOCKS-TCP-NTLS  82.38.31.174
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#🇳🇱 AnixVPN | Netherlands #40
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#🇳🇱 AnixVPN | Netherlands #11
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#🇳🇱 AnixVPN | Netherlands #24
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#🇳🇱 AnixVPN | Netherlands #6
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#🇳🇱 AnixVPN | Netherlands #3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#🇳🇱 AnixVPN | Netherlands #16
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇳🇱 AnixVPN | Netherlands #22
+
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=%2Fv1&security=none&type=ws#🇧🇷 AnixVPN | Brazil #6
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#🇳🇱 AnixVPN | Netherlands #7
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#🇳🇱 AnixVPN | Netherlands #6
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#🇳🇱 AnixVPN | Netherlands #39
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#🇳🇱 AnixVPN | Netherlands #6
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#🇳🇱 AnixVPN | Netherlands #33
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱 AnixVPN | Netherlands #9
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#🇳🇱 AnixVPN | Netherlands #11
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 AnixVPN | Netherlands #8
-
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20701114
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#🇳🇱 AnixVPN | Netherlands #23
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#🇳🇱 AnixVPN | Netherlands #40
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#🇳🇱 AnixVPN | Netherlands #22
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇳🇱 AnixVPN | Netherlands #22
-
-vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?fp=edge&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20453718
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080#🇳🇱 AnixVPN | Netherlands #50
-
-vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?path=%2Fv1&security=none&type=ws#🇧🇷 AnixVPN | Brazil #6
-
-vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru&fp=android#🇳🇱 923 - NL - VLESS/WS/UTLS - 4100
-
-vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-23317
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22224?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | 92CDF0
-
-vless://39e0f41b-180b-4f7e-a607-37b135f0fd83@200.165.234.45:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 2517DD
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22223?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | ED6E5B
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | 1749B8
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22223?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | 3331AA
-
-vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=/v1#🏳️ 1915 - XX - VLESS/WS - 2200
-
-vless://84d0ff7b-9760-415f-a974-b3e1fe92264f@194.26.229.122:2200?type=ws&security=none&encryption=none&path=%2Fv1&headerType=none#RU 🇷🇺 | @Raydikalx | 01B13B
-
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-11581
-
-vless://fe3489e2-6b59-4adb-91f3-e34300a13d5a@87.249.54.48:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru&fp=qq#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-34229
-
-vless://1cb011db-0211-4120-8984-13d8510a612b@77.222.53.218:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-34994
-
-vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjExMCIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgMURCNUFCIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.236.122:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-11605
+vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwicG9ydCI6IjExMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6nwn4eqXSBbdm0tbm8tcmFdIFsyNjA5MDEtMTc1MDI0Ljc4OF0ifQo=
 
 vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.241.182:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-11571
 
-vless://6a726f9a-5753-4113-bfd8-bd845281dca8@194.26.229.110:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#RU 🇷🇺 | @Raydikalx | EA4904
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#2.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#🇳🇱 AnixVPN | Netherlands #25
-
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20126844
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#@Alirewa-94
-
-vless://2f600710-9f4e-4eab-8de1-89f60a878e55@88.216.190.206:443?flow=xtls-rprx-vision&spx=/&headerType=none&type=tcp&security=reality&sni=app4.goonars.com&pbk=u51rZT5vJj8nO80QBBHVW2-WA5OzzQ1eL6euvszWLQI&fp=firefox&encryption=none&sid=09ef88a6#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197950
-
-vless://f0528a17-863f-4160-a5a0-0d9ad03f2ee7@81.200.144.27:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#🇷🇺 AnixVPN | Russia #93
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#🆔configfa%20🔒%20VL-XHTTP-%20🇺🇸%20US%20101ms
-
-vless://c05888f0-4029-45c8-bea7-ea5eff564462@194.26.229.157:2200?encryption=none&path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | D91A86
-
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#@Alirewa-468
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.180:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#FR   VLESS-XHTTP-RLT - Orange  213.130.137.180
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#GB   SHADOWSOCKS-TCP-NTLS  82.38.31.174
-
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304376
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.80:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20104ms
-
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.123.25.85:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  3.123.25.85
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?fp=firefox&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#🇫🇷 AnixVPN | France #44
-
-vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=firefox&spx=%2F9a51181547531a2&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-23348
-
-vless://2f600710-9f4e-4eab-8de1-89f60a878e55@84.32.177.5:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=app72.jarvestip.ru&fp=firefox&flow=xtls-rprx-vision&sid=cf41f778&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190144
-
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.153.59.21:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.153.59.21
-
-vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.175:8080?type=ws&sni=91.107.190.175#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-23375
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#🇳🇱 AnixVPN | Netherlands #65
 
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.30:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20107ms
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22223?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | ED6E5B
 
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none#@Alirewa-587
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.154.19:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-23317
 
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.140:443?fp=firefox&host=panel.freesavesafe.com&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#🇫🇷 AnixVPN | France #26
-
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@177.3.213.112:443?type=tcp&security=reality&sni=germanika.stopingiphatered.shop&fp=firefox&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#BR   VLESS-TCP-RLT - V tal  177.3.213.112
-
-vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@78.17.186.154:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ho99K9SlOhJxolr4nVfw8SV4Z1yI22KaKaxUfk2o8jE&sni=www.nokia.com#🇳🇱 AnixVPN | Netherlands #22
-
-vless://fe3489e2-6b59-4adb-91f3-e34300a13d5a@87.249.54.48:4100?encryption=none&path=/v1&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-34210
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#@Alirewa-232
-
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20127563
-
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.167.24.217:8443/?sni=speedtestmark.com#🇩🇪 AnixVPN | Germany #7
-
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.40:8443/?sni=speedtestmark.com#🇸🇪 AnixVPN | Sweden #1
-
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
-
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.42:8443/?sni=speedtestmark.com#🇰🇷 AnixVPN | South Korea #6
-
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.86.107:9830?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389564
-
-vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.61.232:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8&sni=policies.google.com#NL 🇳🇱 | @Raydikalx | E6F51B
-
-vless://ddc84c5c-2aca-4e6b-a3fa-e23a9cd299e9@62.171.178.144:443?security=reality&encryption=none&pbk=Z0i98sm08Xm652vSee4d7RMPfBIcLrHCjPw2qLjlmnU&headerType=none&fp=chrome&type=tcp&sni=google-analytics.com&sid=c6#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962984
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20107ms
-
-vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@132.243.65.170:443?security=reality&encryption=none&pbk=spZ5EzB2A-lFTqmV_9JeUz_FitUv_JhNWiJ8S6w_zQM&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=magazin5.mervi.icu&sid=07818960cc7c3581#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20182288
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.90:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#FR   VLESS-XHTTP-RLT - Orange  213.130.137.90
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.100:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20108ms
-
-vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#🆔vpnbaz%20🔒%20VL-TCP-%20❔%20XX%20110ms
-
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=%2Fcdn%2Fv3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#🇫🇮 AnixVPN | Finland #84
-
-vless://d81b3a26-1111-497a-a243-a34d80b1b1b9@89.40.70.124:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=2UHMR3ko8nBUTbZpQrvWP9ylSmcAj5YXSNG_o-N8EW8&sid=5b33d3e71a14f4&sni=www.sony.co.uk#🇳🇱 AnixVPN | Netherlands #50
-
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@87.251.19.13:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #8
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.120:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20270268
-
-vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228
-
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@51.38.127.93:443?security=tls&type=ws&path=/GOrbEh&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#24.%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.200:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20102ms
-
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.190:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#FR   VLESS-XHTTP-RLT - Orange  213.130.137.190
+vmess://eyJhZGQiOiI5NC4xNTYuMTcwLjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZTk2ODdmYy1hM2E3LTQxNGEtODY3Ni04ZTIxMzY3OTdjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjExMCIsInBzIjoi8J+qhjExQENvbmZpZ1YyUmF5TkcgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
 
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180858
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#7.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.235.201:22222?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | 0873B8
 
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@84.32.151.203:443?security=reality&encryption=none&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lt.superbuba.top&sid=4fa44664f6a566d3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20420430
+vless://c05888f0-4029-45c8-bea7-ea5eff564462@194.26.229.157:2200?encryption=none&path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | D91A86
 
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.120.252.15:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&sni=mold.freeinternat.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20766074
+vless://3c5b4526-9f8a-4b99-913e-6549bfd20dc3@201.24.49.53:2200?type=ws&path=%2Fv1&host=rzd.ru#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7%20BR-296
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.142.182:22222?security=none&type=tcp&encryption=none#GB 🇬🇧 | @Raydikalx | 1749B8
+
+vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@172.67.173.75:80?type=ws&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560#CA 🇨🇦 | @Raydikalx | 98C273
+
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@201.51.8.235:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=/v1#RU 🇷🇺 | @Raydikalx | 57BFE2
+
+vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@104.21.96.56:80?type=ws&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560#CA 🇨🇦 | @Raydikalx | CF49BD
+
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@82.152.223.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YULPgY4Knu4LVqKcc2uhzTcndqIWWKr74W1dVXcLQ0c&security=reality&sid=c37c2ae6f6eb0d71&sni=public-auth.savesafe.cc&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304376
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.20:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20102ms
+
+vless://2da8106d-8c6a-4818-9a79-07890f9dd859@80.90.188.104:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#RU 🇷🇺 | @Raydikalx | 128B48
+
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@95.85.228.30:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇳🇱] [vl-re-xh] [260901-174746.087]
+
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.153.59.21:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  18.153.59.21
+
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@172.64.147.85:80?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&security=&encryption=none&host=elenaaaaaaaaaa.cloudns.pro&fp=chrome&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-26399
+
+vless://c05888f0-4029-45c8-bea7-ea5eff564462@194.26.229.157:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#RU 🇷🇺 | @Raydikalx | B7999C
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.80:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20104ms
+
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@177.3.213.112:443?type=tcp&security=reality&sni=germanika.stopingiphatered.shop&fp=firefox&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#BR   VLESS-TCP-RLT - V tal  177.3.213.112
+
+vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@141.101.114.219:80?security=none&type=ws&path=%2F%3Fed%3D2560&host=tianshu.kevqwkt451.workers.dev&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-25656
+
+vless://9c2307ba-7972-4ea5-a199-f2c80049be7f@81.200.146.190:4100?encryption=none&type=ws&security=none&path=/v1&host=live.ok.ru#46.%20%F0%9F%87%B7%F0%9F%87%BA%20Russia
+
+vless://424fa201-3f94-479e-b533-d5257cf9a207@45.131.208.4:80?security=none&type=ws&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%BF%20BZ-13
+
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.184.156.140:443/?insecure=1&sni=vpn-de-001.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20993814
+
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.123.25.85:443?sni=vpn-de-001.fastervpn.world&insecure=1#DE   HYSTERIA2-TCP-NTLS - AMAZON-02  3.123.25.85
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.200:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20102ms
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20107ms
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.190:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#FR   VLESS-XHTTP-RLT - Orange  213.130.137.190
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.40:443?fp=firefox&path=%2F&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&security=reality&sid=812609fa663c57fb&sni=panel.freesavesafe.com&type=xhttp#🇫🇷 AnixVPN | France #44
+
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?type=tcp&security=reality&sni=telegraf.lv&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442760
+
+vless://2f600710-9f4e-4eab-8de1-89f60a878e55@88.216.190.206:443?flow=xtls-rprx-vision&spx=/&headerType=none&type=tcp&security=reality&sni=app4.goonars.com&pbk=u51rZT5vJj8nO80QBBHVW2-WA5OzzQ1eL6euvszWLQI&fp=firefox&encryption=none&sid=09ef88a6#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20197950
+
+vless://4b00d726-e072-429b-997e-f07affea3b7f@162.159.81.104:80?encryption=none&security=none&type=ws&host=icy-darkness-8ff1.farzambia12mo.workers.dev&path=%2FeyJqdW5rIjoiUEVTdDRlR2hhc0JuYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ#4Nika-7414
+
+vless://95de071f-747c-dc07-36ac-5c0854a9e50e@172.67.148.26:443?security=tls&type=ws&path=%2Fsync&host=restless-boat-ebf2.moha102030.workers.dev&sni=restless-boat-ebf2.moha102030.workers.dev&fp=chrome&encryption=none#CA 🇨🇦 | @Raydikalx | 6F7F13
+
+vless://2f600710-9f4e-4eab-8de1-89f60a878e55@84.32.177.5:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=app72.jarvestip.ru&fp=firefox&flow=xtls-rprx-vision&sid=cf41f778&pbk=Q6vABOUn6Uxtp0uDsfDG-SRJFLBh_oOofD9reec4iSg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20190144
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.170:443?type=xhttp&security=reality&path=/&sni=panel.freesavesafe.com&fp=firefox&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#FR   VLESS-XHTTP-RLT - Orange  213.130.137.170
+
+vless://60e2a548-96aa-4850-a279-1edab743c39b@132.243.235.53:2096?security=reality&encryption=none&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dhlparcel.nl&sid=3dad96f8693ea653#🆔vpnbaz%20🔒%20VL-TCP-%20❔%20XX%20110ms
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.30:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20❔%20XX%20107ms
+
+vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.61.232:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8&sni=policies.google.com#NL 🇳🇱 | @Raydikalx | E6F51B
+
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.174.10:443?encryption=none&security=tls&sni=blackshadow.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F44.209.52.7-443#[6749][US][0][VLESS][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01 02:22]
+
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none#@Alirewa-587
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@46.225.219.181:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=mg9K0RBg6pS2oDh28RBI026ytRERGNE9_JnkIn8OOFo&sid=f3c4da18e7c4f744&sni=de.sdssh-vid.online#🇩🇪 AnixVPN | Germany #56
+
+vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?path=/&security=tls&encryption=none&host=noisy-term-e657.airdrop2014aa5168.workers.dev&fp=chrome&type=ws&sni=noisy-term-e657.airdrop2014aa5168.workers.dev#Join+Telegram:@Farah_VPN
+
+vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@150.241.72.143:12200?security=reality&encryption=none&pbk=Kjw_K41-jWxqzAMtOby5y0KREhyjybuHsAHfCEFo6Sc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=au.windconnect.pro&sid=222afa5374b722b9#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20553662
+
+vless://b2c43c2d-01fb-48ee-9a1c-8f1ee3227e10@104.21.17.120:443?fp=chrome&path=%2F&security=tls&sni=myclashes.top&type=ws#CA 🇨🇦 | @Raydikalx | 843F9A
+
+vless://0cfee0f7-de6d-4d72-95c5-bb5d35094974@194.55.239.164:443?type=raw&security=reality&encryption=none&sni=ads.vk.ru&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&sid=c427&flow=xtls-rprx-vision&headerType=none#🇷🇺 AnixVPN | Russia #3
+
+vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=%2Fcdn%2Fv3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#🇫🇮 AnixVPN | Finland #84
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.167.24.217:8443/?sni=speedtestmark.com#🇩🇪 AnixVPN | Germany #7
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.42:8443/?sni=speedtestmark.com#🇰🇷 AnixVPN | South Korea #6
+
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.17.122.59:443?type=ws&security=tls&fp=chrome&sni=shanxp.dpdns.org#CA 🇨🇦 | @Raydikalx | 4D043C
+
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228
+
+vless://7da33b25-cdd6-e481-afcf-c5d532361a70@172.67.130.144:443?path=/sync&security=tls&encryption=none&insecure=0&host=ez-1bc8ab.sekiro-c18.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-1bc8ab.sekiro-c18.workers.dev#CA 🇨🇦 | @Raydikalx | 69027B
+
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.244.37:2054?security=reality&encryption=none&pbk=l6_Nvc_H8uxGpNI3j3MxqlRoPBs313ENeVM4K3uP9BQ&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=www.ibm.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2959
+
+vless://73796e63-0000-4000-8000-000000000000@104.21.12.21:443?encryption=none&security=tls&sni=nahan-core.fatitelegram.workers.dev&fp=chrome&type=ws&host=nahan-core.fatitelegram.workers.dev&path=%2Fsync#CA 🇨🇦 | @Raydikalx | E0668D
+
+vless://95de071f-747c-dc07-36ac-5c0854a9e50e@104.21.55.123:80?security=none&type=ws&path=%2Fsync&host=restless-boat-ebf2.moha102030.workers.dev#CA 🇨🇦 | @Raydikalx | 6CB1D6
+
+vless://24e84618-3de6-4e3b-802e-5abbe666c4b0@109.248.161.43:64584?security=&encryption=none&headerType=none&type=tcp#filembad-79
+
+vless://95de071f-747c-dc07-36ac-5c0854a9e50e@104.21.55.123:443?encryption=none&security=tls&sni=restless-boat-ebf2.moha102030.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=restless-boat-ebf2.moha102030.workers.dev&path=%2Fsync#CA 🇨🇦 | @Raydikalx | 3EA19A
+
+vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.114.8:443?encryption=none&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-18613
+
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@132.243.65.170:443?security=reality&encryption=none&pbk=spZ5EzB2A-lFTqmV_9JeUz_FitUv_JhNWiJ8S6w_zQM&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=magazin5.mervi.icu&sid=07818960cc7c3581#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20182288
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@87.251.19.13:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #8
+
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?path=%2F&security=tls&encryption=none&insecure=0&host=bitter-shadow-4fc5.alvlirm852.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bitter-shadow-4fc5.alvlirm852.workers.dev#US 🇺🇸 | @Raydikalx | 1EAF7C
+
+vless://a4d52fe0-f904-48d3-b579-25d5b79c79b2@81.31.246.124:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#RU 🇷🇺 | @Raydikalx | 528CF0
+
+vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@162.159.252.211:80?security=none&type=ws&path=/?ed=2560&host=tianshu.kevqwkt451.workers.dev&packetEncoding=xudp&encryption=none#4Nika-6655
+
+vless://89c5493f-9485-85e5-c43f-df0600000000@172.67.202.43:443?security=tls&type=ws&path=/&sni=nameless-moon-7c4d.shafmrhjlos23.workers.dev&fp=chrome#CA 🇨🇦 | @Raydikalx | D5ECAB
+
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@164.90.166.120:443?encryption=none&fp=chrome&host=damp-dawn-3a96.alvlirm123.workers.dev&path=%2F&security=tls&sni=damp-dawn-3a96.alvlirm123.workers.dev&type=ws#DE 🇩🇪 | @Raydikalx | D6DB6C
+
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.244.171:2054?security=reality&encryption=none&pbk=0-HIOsSIQTrTYc5PdFT0OSKGBiBUiGrJzgV6ctal8Fg&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=www.ibm.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AC%20SG-2960
+
+vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.77.154.14:8443?security=reality&encryption=none&pbk=3O__mdy-whzI07V-QEyR6GQnag1FNwtHijDxt2_jkDQ&fp=firefox&type=grpc&serviceName=grpc-tunnel&sni=swscan.apple.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B9%20IT-904
+
+vless://e6cc4788-3c45-4df1-94f3-8303504a65bf@104.25.146.77:443?encryption=none&type=ws&host=khoda.ak-khoda.workers.dev&path=%2Fsync&security=tls&fp=chrome&sni=khoda.ak-khoda.workers.dev# By EbraSha
+
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.21:443?mode=gun&security=reality&encryption=none&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&fp=firefox&type=grpc&serviceName=edge.v2.FeedService&sni=rs3.univesalsrv.com&sid=35d05b666e2c6cdf#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20129ms
+
+vless://9fa6d846-5961-8e0e-ce27-77de00000000@172.67.199.62:443?path=/sync&security=tls&encryption=none&insecure=0&host=fancy-wind-799d.cloudneryacc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-wind-799d.cloudneryacc.workers.dev#CA 🇨🇦 | @Raydikalx | CDC2CF
+
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.120:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=panel.freesavesafe.com&fp=firefox&type=xhttp&sni=panel.freesavesafe.com&sid=812609fa663c57fb#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20270268
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#7.%20%F0%9F%87%AA%F0%9F%87%B8%20Spain
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#@Alirewa-1702
+
+vless://9952b71a-6c86-4522-888f-ff9ea9b93536@104.25.220.68:443?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=1.hshs8227shhshs.workers.dev#CA 🇨🇦 | @Raydikalx | 48F6AC
+
+vless://39e0f41b-180b-4f7e-a607-37b135f0fd83@200.165.234.45:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#RU 🇷🇺 | @Raydikalx | 2517DD
