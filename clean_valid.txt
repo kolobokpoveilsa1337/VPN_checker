@@ -1,13 +1,23 @@
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@80.86.215.17:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #4
-
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6nwn4eqIERFLTIzMTY5IiwiYWRkIjoibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCJwb3J0IjoiMTEwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsInRscyI6IiJ9
-
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇬🇧 AnixVPN | United Kingdom #3
 
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.54:8443/?sni=speedtestmark.com#🇺🇸 AnixVPN | United States #1
 
-vless://cec9a167-6381-4752-9828-a92ab6e6ebdd@2.26.0.5:443?mode=multi&security=reality&encryption=none&authority=deliberi.fi&pbk=_syAndJM1Guu8-CkJ48iBXUTe0GxHg3YEN3vz9iPkjo&fp=chrome&type=grpc&serviceName=6b1d23e872422afdd141eba7c94c05e4&sni=deliberi.fi&sid=f44dbbc3#FI 🇫🇮 | @Raydikalx | 16445F
+vless://486ebf01-0b45-4c38-9ef6-198aa0f9d2c3@188.114.97.6:8080?host=quiet-feather-19f3.410-a69.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28089
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@80.86.215.17:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #4
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
+
+vless://4070e7c9-a412-4ed0-a5fa-fdb455451d2c@188.114.97.6:8080?security=none&type=ws&host=icy-sky-53f2.9-e8e.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&fm={#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-28575
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&insecure=1#GB   HYSTERIA2-TCP-NTLS - AMAZON-02  3.9.135.186
+
+vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwicG9ydCI6IjExMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6nwn4eqXSBbdm0tbm8tcmFdIFsyNjA5MDUtMDgyNzMzLjg3Ml0ifQo=
+
+vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=dark-rain-2989.gzgshsgs.workers.dev#CA 🇨🇦 | @Raydikalx | 1D7DF0
 
 vless://cec9a167-6381-4752-9828-a92ab6e6ebdd@2.26.0.5:443?encryption=none&type=grpc&serviceName=6b1d23e872422afdd141eba7c94c05e4&security=reality&fp=chrome&pbk=_syAndJM1Guu8-CkJ48iBXUTe0GxHg3YEN3vz9iPkjo&sni=deliberi.fi&sid=f44dbbc3#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-5404
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?sni=vpn-uk-001.fastervpn.world&insecure=1#GB   HYSTERIA2-TCP-NTLS - AMAZON-02  3.9.135.186
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-2228
+
+vless://cec9a167-6381-4752-9828-a92ab6e6ebdd@2.26.0.5:443?mode=multi&security=reality&encryption=none&authority=deliberi.fi&pbk=_syAndJM1Guu8-CkJ48iBXUTe0GxHg3YEN3vz9iPkjo&fp=chrome&type=grpc&serviceName=6b1d23e872422afdd141eba7c94c05e4&sni=deliberi.fi&sid=f44dbbc3#FI 🇫🇮 | @Raydikalx | 16445F
