@@ -1,19 +1,17 @@
-vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15003?encryption=none&security=none&type=tcp#@Alirewa-537
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaalExTg@138.124.15.120:8388#FI 🇫🇮 | @Raydikalx | ABB228
 
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.37:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #3
 
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
+vless://1577b744-8004-4eef-862c-8cae0cd27ab9@185.255.112.206:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20216248
 
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.39:8443/?sni=speedtestmark.com#🇵🇱 AnixVPN | Poland #1
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD
-
-vless://568addfa-796a-40f8-820d-a071ee2ca50a@138.124.245.116:443?path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&fp=chrome&type=xhttp&sni=www.google.com#NL 🇳🇱 | @Raydikalx | 248D53
-
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@91.224.86.107:9830?type=grpc&security=reality&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&sni=dl.google.com&serviceName=grpc-tunnel#UA 🇺🇦 | @Raydikalx | 76C744
-
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@185.255.112.206:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20216248
-
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@fr-1.starsping.com:443?encryption=none&fp=&mode=auto&path=%2F&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&security=reality&sid=a88550765b9956ee&sni=play.google.com&type=xhttp#@Alirewa-550
 
+vless://c87e551b-3999-4b76-b3bf-bdfd6ef176fd@153.76.208.232:443?security=reality&encryption=none&pbk=kCKXYcvEQ2cz4d0jBmBjyzbesUZ3AHQBukhqXWPiRlA&headerType=none&fp=chrome&spx=/c1762d24c4fc297&type=tcp&sni=yandex.com.am&sid=f3deb2#NL 🇳🇱 | @Raydikalx | 90C98A
+
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#NL 🇳🇱 | @Raydikalx | 78AF0D
+
 vless://6fb79584-30b8-4888-b358-98f7ef6b8697@159.195.151.100:443?security=reality&encryption=none&pbk=RR_T91yZY_QUPN53wQNakGmCN3mq0i_Ozom7etyh4RI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.adac.de#🇧🇪 AnixVPN | Belgium #66
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
