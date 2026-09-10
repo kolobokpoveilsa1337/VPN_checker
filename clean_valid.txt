@@ -1,47 +1,55 @@
-vless://8db6a2c6-fd7f-4248-96db-c332a61920dd@free.iranimodem.com:2019?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Kriftel🅿️ping:58.65ms
-
-vless://e2f46341-0eea-4c34-9175-312db4d0cc57@89.124.251.218:20110?encryption=none&type=raw&headerType=none&security=none# By EbraSha 🔮
-
-vless://e2f46341-0eea-4c34-9175-312db4d0cc57@89.124.251.218:20110?security=none&encryption=none&headerType=none&type=tcp#@Alirewa-476
-
 vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15003?encryption=none&security=none&type=tcp#@Alirewa-537
-
-vless://5b03d622-c11f-413c-be16-fb99e4d8384e@50.7.154.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#🇺🇸 AnixVPN | United States #1
 
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.37:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #3
 
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.39:8443/?sni=speedtestmark.com#🇵🇱 AnixVPN | Poland #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#NL 🇳🇱 | @Raydikalx | 78AF0D
+vless://730cbebb-39b2-4a1c-b2f8-f922095d6623@188.114.97.6:8080?path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&encryption=none&host=wandering-bonus-e035.272.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | 84E8F5
 
-hysteria2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443?insecure=1&sni=ltu-01.node.lumixnet.com#%E8%8A%AC%E5%85%B0%20%231
+vless://d9abc6e3-83bf-4c28-ae68-72465e2abe39@188.114.97.6:8080?encryption=none&security=none&type=ws&host=ikt-kkc25f27k-3tehr8mc.ade-1007.workers.dev&path=/vl/xQhNe7rLrdM0emZlaW5LMsNwcoIgnT?ed=2560&fm={#CA 🇨🇦 | @Raydikalx | 348BB7
 
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.41:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #6
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#17.%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@188.114.97.6:8080?encryption=none&type=ws&host=tiny-lake-c7f3.16-1af.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none#CA 🇨🇦 | @Raydikalx | BA43C0
+
+vless://2c122b00-78ed-44af-ae96-61f0786bf8a6@104.24.16.23:443?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=dark-rain-2989.gzgshsgs.workers.dev#CA 🇨🇦 | @Raydikalx | 1D7DF0
+
+vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@104.18.111.238:443?ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&fp=chrome&host=gy-cffc5-node-31z7yxejlog9qfu0.lancelot.dpdns.org&path=/index/document/proxyip=ProxyIP.KR.CMLiussss.net?ed=2560&security=tls&sni=gy-cffc5-node-31z7yxejlog9qfu0.lancelot.dpdns.org&type=ws#CA 🇨🇦 | @Raydikalx | 7E6844
+
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.39:8443/?sni=speedtestmark.com#🇵🇱 AnixVPN | Poland #1
+
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@2.26.101.181:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&sni=se.yservice.help#🇰🇷 AnixVPN | South Korea #2
 
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@oslomeow.nethcloud.top:8443?path=/&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=chrome&type=xhttp&sni=wikihow.com#NO 🇳🇴 | @Raydikalx | 96B044
 
-vless://88063fc8-9fd4-4e28-b9a3-9e7d82f5f906@151.101.56.6:80?mode=auto&path=/&security=none&encryption=none&host=ky10ra.global.ssl.fastly.net&type=xhttp#US 🇺🇸 | @Raydikalx | 4B4B9B
+vless://363202dd-0521-46b4-b4e2-443dfbaa2ce1@104.21.70.21:443?encryption=none&fp=unsafe&host=flat-heart-b60a.401-306.workers.dev&path=/pyip%3DProxyIP.KR.CMLiussss.net&security=tls&sni=flat-heart-b60a.401-306.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | 9BEF39
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#%E8%8B%B1%E5%9B%BD
-
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@fr-1.starsping.com:443?encryption=none&fp=&mode=auto&path=%2F&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&security=reality&sid=a88550765b9956ee&sni=play.google.com&type=xhttp#@Alirewa-550
+vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@104.17.175.151:443?type=ws&security=tls&fp=chrome&sni=gy-cffc5-node-31z7yxejlog9qfu0.lancelot.dpdns.org#CA 🇨🇦 | @Raydikalx | A23FCF
 
 vless://1577b744-8004-4eef-862c-8cae0cd27ab9@185.255.112.206:443?mode=auto&path=/&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20216248
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTovNjN2cDdwZGwxR1hhVHBhNmtrV2QyKzN0cTMvc3pTQVd1ZVZLbzI2eE04PQ==@130.49.189.158:43558#AL 🇦🇱 | @Raydikalx | 2395A1
-
 vless://6fb79584-30b8-4888-b358-98f7ef6b8697@159.195.151.100:443?security=reality&encryption=none&pbk=RR_T91yZY_QUPN53wQNakGmCN3mq0i_Ozom7etyh4RI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.adac.de#🇧🇪 AnixVPN | Belgium #66
 
-vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:443?mode=auto&sni=bale.ai&pbk=Tr-2eJdAH5U9xRTqpKZ7ld4xW-A2BvblkWTKHgCfjUI&path=/&spx=/71fcf8859330bda&sid=ed&type=xhttp&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&security=reality&host=italic.dearhossein-taktaz.ir&encryption=none#FI 🇫🇮 | @Raydikalx | 166250
+vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@104.18.230.204:443?type=ws&security=tls&fp=chrome&sni=gy-cffc5-node-31z7yxejlog9qfu0.lancelot.dpdns.org#CA 🇨🇦 | @Raydikalx | DD709D
 
-vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8443?security=reality&fp=chrome&mode=auto&sni=www.sony.com.hk&pbk=j6s71Y93SiWpKalWmjr-CB-fnxDIj0h7Wkc7Fu2izio&sid=1de760&type=xhttp&host=italic.dearhossein-taktaz.ir&extra={"mode":"auto","xPaddingBytes":"100-1000"}&spx=/41f8f15aa1ac0aa&encryption=none&path=/#FI 🇫🇮 | @Raydikalx | BFC118
+vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@104.18.93.149:443?type=ws&security=tls&fp=chrome&sni=gy-cffc5-node-31z7yxejlog9qfu0.lancelot.dpdns.org#CA 🇨🇦 | @Raydikalx | EDDB90
 
-vless://bfea31b5-371b-48d9-a9fa-4767ed6a5973@172.67.217.10:443?path=%2Fjetiona&security=tls&encryption=none&insecure=0&host=bluerocketway-bcc.lat&type=ws&allowInsecure=0&sni=bluerocketway-bcc.lat#@Alirewa-477
+vless://c09cfd91-b234-4998-9bed-a0211b7f5c3c@31.77.149.204:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234&sni=nl.yservice.help#🇨🇿 AnixVPN | Czech Republic #79
 
-vless://7b002287-42a7-4c27-a883-731b9566abf9@grok.com:2082?path=%2Fapi&security=none&encryption=mlkem768x25519plus.xorpub.0rtt.jzcHzga-S_sSq37t3OtshHK2vNnaDQT5iVbga8pDjRQ&host=193.111.236.237.mofiidonline.ir&type=httpupgrade#🆔ar14n24b%20🔓%20VL-HTTPUPGRADE-N/A%20❔%20XX%2017ms
+vless://902fd911-ca5d-49a6-99ad-47372a266804@104.21.70.21:443?encryption=none&fp=unsafe&host=young-wildflower-6b6c.100-52d.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&security=tls&sni=young-wildflower-6b6c.100-52d.workers.dev&type=ws#CA 🇨🇦 | @Raydikalx | 4816B9
+
+vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@104.19.54.224:443?type=ws&security=tls&fp=chrome&sni=gy-cffc5-node-31z7yxejlog9qfu0.lancelot.dpdns.org#CA 🇨🇦 | @Raydikalx | D586B5
+
+vless://49b5c5d1-8fb0-4fd2-8129-01bd2178e8d1@104.18.128.160:443?type=ws&security=tls&fp=chrome&sni=gy-cffc3-node-31z7yxejlog9qfu0.lancelot.dpdns.org#CA 🇨🇦 | @Raydikalx | 50B77D
+
+vless://ca19c24a-e5ec-45f8-8cd1-c97d84da5e35@2.26.3.88:443?security=reality&encryption=none&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi.oblaco.bet#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443518
+
+vless://c87e551b-3999-4b76-b3bf-bdfd6ef176fd@153.76.208.232:443?security=reality&encryption=none&pbk=kCKXYcvEQ2cz4d0jBmBjyzbesUZ3AHQBukhqXWPiRlA&headerType=none&fp=chrome&spx=/c1762d24c4fc297&type=tcp&sni=yandex.com.am&sid=f3deb2#NL 🇳🇱 | @Raydikalx | 90C98A
+
+hysteria2://5beff945-adaa-492f-85c6-8aaf5df6cfa5@91.240.87.46:59448?sni=hy.quattro-tech.ru#%F0%9F%87%AA%F0%9F%87%AA%20Эстония%20[🏳️LTE]%20|%20🥭🔧
 
 hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#NL 🇳🇱 | @Raydikalx | B843BA
 
-vless://db9da8fb-c528-42ec-9b9e-e578cf934c04@103.91.147.17:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#@Alirewa-28
+hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%2C%20Helsinki%20[🏴BL]
+
+vless://4e358a16-f113-4779-8691-d88acd1d2395@201.24.117.25:19210?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=rvcGpldftiQ1_SD8XFNLq2L9VkU0yME0YYgTw6guHhE&sid=5b&sni=travel.yandex.com#🇮🇪 AnixVPN | Ireland #25
