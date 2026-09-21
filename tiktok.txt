@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:7018#🇷🇺 RU ^| 467ms
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?#🇷🇺 RU ^| 479ms
+vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#🇷🇺 RU ^| 375ms
